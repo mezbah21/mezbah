@@ -1,0 +1,8 @@
+#this program shows the qoutient of two digits
+
+a = float(input("may i know the first digit sir ? : "))
+print("your first digit is",a)
+b = float(input("please give me the second digit sir : "))
+print("your second digit is",b)
+quo = a/b
+print("okey the quotient of your digits are ready.it's",quo,"thank you for your response sir")
