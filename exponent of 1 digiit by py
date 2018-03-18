@@ -1,0 +1,8 @@
+#this program shows the exponent of 1 digit
+
+a = float(input("may i know the digit sir ? : "))
+print("your digit is",a)
+b = float(input("please give me the pow digit sir : "))
+print("your pow digit is",b)
+exp = a**b
+print("okey,the exponent of your digit is ready.it's",exp,"thank you for your response sir")
