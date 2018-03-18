@@ -1,0 +1,8 @@
+#this program shows the sum of two digits
+
+a = int(input("may i know the first digit sir ? : "))
+print("your first digit is",a)
+b = int(input("please give me the second digit sir : "))
+print("your second digit is",b)
+sum = a+b
+print("okey the sum of your numbers are ready.it's ",sum,"thank you for your response sir")
